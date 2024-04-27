@@ -180,6 +180,7 @@ const handleNormalEvents = (keyCode: string) => {
   row-gap: 0;
   padding: 0.25rem;
 
+  font-family: "Menlo", "Monaco", "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", serif;
   font-size: 12px;
   color: white;
   background-color: #222;
